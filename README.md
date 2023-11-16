@@ -13,7 +13,7 @@ The objective of this program is to use the turtle module to move the turtle aro
 
 **Customization:
 
-You can customize this project by painting a differnt shape for instance a spiral! that an be a bit challenging!
+You can customize this project by painting a differnt shape for instance a spiral! that can be a bit challenging!
 
 **Challenges: 
 There is no challenge involved! this is just for fun unlike my other projects!
