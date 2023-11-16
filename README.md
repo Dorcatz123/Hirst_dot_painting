@@ -3,6 +3,12 @@ Title:************* Hirst-Dot-painting****************************
 
 link to the program output: https://youtu.be/s0Ii3Bnvz48
 
+
+
+![hirst's_dot_painting](hirst's_dot_painting.png)
+
+
+
 **Description:
 
 This is a mini project using python programming language to imitate the famous Damien Hirst's dot painting using the turtle module and the colorgram module. 
